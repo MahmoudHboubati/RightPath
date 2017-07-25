@@ -1,0 +1,5 @@
+D:\DM\Code\RightPath\RightPath\bin\Debug\RightPath.exe.config
+D:\DM\Code\RightPath\RightPath\bin\Debug\RightPath.exe
+D:\DM\Code\RightPath\RightPath\bin\Debug\RightPath.pdb
+D:\DM\Code\RightPath\RightPath\obj\Debug\RightPath.exe
+D:\DM\Code\RightPath\RightPath\obj\Debug\RightPath.pdb
